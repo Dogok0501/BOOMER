@@ -1,0 +1,23 @@
+{
+  "npc": 
+  [
+    {
+      "index": "2000",
+      "name": "Sans",
+      "dialogueindex": "2010",
+      "questindex" : "2100"
+    },
+    {
+      "index": "2001",
+      "name": "Papyrus",
+      "dialogueindex": "2011",
+      "questindex": "2101"
+    },
+    {
+      "index": "2002",
+      "name": "UpgradePC",
+      "dialogueindex": "2012",
+      "questindex": "2102"
+    }
+  ]
+}

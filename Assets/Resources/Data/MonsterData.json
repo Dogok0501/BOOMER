@@ -1,0 +1,22 @@
+{
+  "monster": [
+    {
+      "index": "3000",
+      "name": "Skull",
+      "health": "100",
+      "dropitemindex1": "1003"
+    },
+    {
+      "index": "3001",
+      "name": "SkullMage",
+      "health": "100",
+      "dropitemindex1": "1003"
+    },
+    {
+      "index": "3002",
+      "name": "DuckBoss",
+      "health": "800",
+      "dropitemindex1": "1004"
+    }
+  ]
+}

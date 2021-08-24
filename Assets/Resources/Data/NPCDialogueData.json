@@ -1,0 +1,26 @@
+{
+  "npcdialogue": 
+  [
+    {
+      "index": "2010",
+      "dialogue_start": "WOW! You know me.",
+      "dialogue_progress": "So, what's up",
+      "dialogue_end1": "Alright, then",
+      "dialogue_end2": "See ya soon."
+    },
+    {
+      "index": "2011",
+      "dialogue_start": "Do I know you?",
+      "dialogue_progress": "Well, never mind.",
+      "dialogue_end1": "You better find my bro first!",
+      "dialogue_end2": "Bye~"
+    },
+    {
+      "index": "2012",
+      "dialogue_start": "000001010101010101010101",
+      "dialogue_progress": "0001101010101010111100",
+      "dialogue_end1": "001000000000001101110",
+      "dialogue_end2": "0011010110101000001111"
+    }
+  ]
+}

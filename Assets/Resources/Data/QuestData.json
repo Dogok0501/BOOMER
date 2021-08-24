@@ -1,0 +1,31 @@
+{
+  "npcquest": [
+    {
+      "index": "2100",
+      "name": "Skull Hunt",
+      "description": "Kill 10 Skull",
+      "type": "Hunt",
+      "goal": "10",
+      "targetindex": "3000",
+      "rewarditemindex": "1000"
+    },
+    {
+      "index": "2101",
+      "name": "Engram Collect",
+      "description": "Collect 10 Engram",
+      "type": "Collect",
+      "goal": "10",
+      "targetindex": "1003",
+      "rewarditemindex": "1001"
+    },
+    {
+      "index": "2102",
+      "name": "Boss Hunt",
+      "description": "Kill 1 Boss Monster",
+      "type": "Hunt",
+      "goal": "1",
+      "targetindex": "3002",
+      "rewarditemindex": "1002"
+    }
+  ]
+}

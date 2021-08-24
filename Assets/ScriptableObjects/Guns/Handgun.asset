@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c77a134d66acf44f83bc6132cf4582e, type: 3}
+  m_Name: Handgun
+  m_EditorClassIdentifier: 
+  gunName: Handgun
+  damage: 15
+  maxAmmo: 100
+  maxClip: 8
+  pellets: 0
+  bulletSpread: 10
+  range: 100
+  firerate: 0.15
+  recoil: 10
+  kickback: 0.1
+  aimSpeed: 20
+  reloadTime: 1
+  drawSpeed: 0.5
+  burst: 0
+  boltAction: 0
+  prefab: {fileID: 5814512744607355836, guid: 7059f816031ee0149a8cffda37b555cf, type: 3}

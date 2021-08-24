@@ -1,0 +1,49 @@
+{
+  "consumableItem": [
+    {
+      "index": "1000",
+      "name": "Hp Potion",
+      "type": "HpPotion",
+      "description": "Heal HP +30",
+      "value": "30",
+      "stackable": true,
+      "sprite": "Heart"
+    },
+    {
+      "index": "1001",
+      "name": "Armor",
+      "type": "Armor",
+      "description": "Restore Armor +50",
+      "value": "50",
+      "stackable": true,
+      "sprite": "Armor"
+    },
+    {
+      "index": "1002",
+      "name": "Ammo Box",
+      "type": "Ammo",
+      "description": "Ammo +20",
+      "value": "20",
+      "stackable": true,
+      "sprite": "Ammo"
+    },
+    {
+      "index": "1003",
+      "name": "Engram",
+      "type": "Engram",
+      "description": "It's an Engram! You can use it as a key or Upgrade Material.",
+      "value": "0",
+      "stackable": true,
+      "sprite": "Engram"
+    },
+    {
+      "index": "1004",
+      "name": "Exotic Engram",
+      "type": "Engram",
+      "description": "It's an Exotic Engram! To the Ending Door!.",
+      "value": "0",
+      "stackable": false,
+      "sprite": "Exotic Engram"
+    }
+  ]
+}
